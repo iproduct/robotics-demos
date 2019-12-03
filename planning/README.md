@@ -4,6 +4,8 @@
 
 The robot arm planning demo project employs STRIPS planning approach in order to plan the movements of a robot arm which is visualized in 3D using Three.js library (see [Robotic Arm Demo Project](../3d-robotic-arm-simulator) for the client side part).
 
+The server side is implemented as a REST service endpoint using [Spring 5 WebFlux](https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html) reactive web programming platform, Reactive Spring Data, and Spring Boot 2.
+
 We are using use [JavaFF](https://nms.kcl.ac.uk/planning/software/javaff.html). You can download it as ZIP: [javaff.zip](http://cse3521.artifice.cc/downloads/javaff.zip).
 
 ## JavaFF
