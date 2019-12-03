@@ -3,6 +3,13 @@ plugins {
 	id 'io.spring.dependency-management' version '1.0.8.RELEASE'
 	id 'java'
 	id 'war'
+	id 'idea'
+}
+idea {
+	module {
+		downloadJavadoc = true;
+		downloadSources = true;
+	}
 }
 
 group = 'org.iproduct'
