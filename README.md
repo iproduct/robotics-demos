@@ -1,4 +1,4 @@
-# Robotics-Demos
+# Robotic Demos
 
 ## Course: *Practical Robotics and Smart Things*
 
@@ -9,3 +9,5 @@
 Go to [Robotic Arm Demo Project](https://github.com/iproduct/robotics-demos/tree/master/3d-robotic-arm-simulator)
 
 ## Robot Arm STRIPS Planning Project
+
+Go to [Robot Arm STRIPS Planning Project](https://github.com/iproduct/robotics-demos/tree/master/planning)
