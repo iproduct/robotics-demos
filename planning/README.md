@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Robot Arm STRIPS Planning demo project employs STRIPS planning approach in order to plan the movements of a robot arm which is visualized in 3D using Three.js library (see [Robotic Arm Demo Project](../3d-robotic-arm-simulator) for client side part).
+The Robot Arm STRIPS Planning demo project employs STRIPS planning approach in order to plan the movements of a robot arm which is visualized in 3D using Three.js library (see [Robotic Arm Demo Project](../3d-robotic-arm-simulator) for the client side part).
 
 We are using use [JavaFF](https://nms.kcl.ac.uk/planning/software/javaff.html). You can download it as ZIP: [javaff.zip](http://cse3521.artifice.cc/downloads/javaff.zip).
 
