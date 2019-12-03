@@ -1,3 +1,4 @@
 # Robotic Arm Demo Project
 ## Course: *Practical Robotics and Smart Things*
-![Robotic arm interactive demo](/docs/images/robot-arm01.png)
+![Robotic arm interactive demo](/3d-robotic-arm-simulator/docs/images/robot-arm01.png)
+https://raw.githubusercontent.com/iproduct/robotics-demos/master/3d-robotic-arm-simulator/docs/images/robot-arm01.png
