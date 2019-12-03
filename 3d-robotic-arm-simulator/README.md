@@ -9,3 +9,4 @@
 4. Run `npm start` to start the HTTP server.
 5. Open [http://localhost:3000/](http://localhost:3000/) in Chrome.
 
+![Robotic arm code](/3d-robotic-arm-simulator/docs/images/robot-arm-code01.png)
