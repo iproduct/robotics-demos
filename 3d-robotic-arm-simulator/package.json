@@ -24,7 +24,7 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.17.0",
     "lite-server": "^2.5.4",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "node-pre-gyp": "^0.14.0"
   }
 }
